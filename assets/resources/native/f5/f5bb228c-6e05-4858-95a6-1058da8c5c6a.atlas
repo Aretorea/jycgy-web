@@ -1,0 +1,265 @@
+
+彩带.png
+size: 1882,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+合成 1_02
+  rotate: true
+  xy: 2, 135
+  size: 69, 160
+  orig: 71, 162
+  offset: 1, 1
+  index: -1
+合成 1_03
+  rotate: true
+  xy: 963, 137
+  size: 67, 156
+  orig: 70, 158
+  offset: 1, 1
+  index: -1
+合成 1_04
+  rotate: true
+  xy: 1121, 137
+  size: 67, 152
+  orig: 69, 154
+  offset: 1, 1
+  index: -1
+合成 1_05
+  rotate: true
+  xy: 673, 70
+  size: 65, 186
+  orig: 68, 188
+  offset: 2, 1
+  index: -1
+合成 1_06
+  rotate: true
+  xy: 861, 70
+  size: 65, 184
+  orig: 68, 186
+  offset: 1, 1
+  index: -1
+合成 1_07
+  rotate: true
+  xy: 1403, 71
+  size: 64, 177
+  orig: 66, 180
+  offset: 1, 2
+  index: -1
+合成 1_08
+  rotate: true
+  xy: 1403, 4
+  size: 65, 171
+  orig: 67, 173
+  offset: 1, 1
+  index: -1
+合成 1_09
+  rotate: true
+  xy: 164, 136
+  size: 68, 233
+  orig: 71, 237
+  offset: 2, 2
+  index: -1
+合成 1_10
+  rotate: true
+  xy: 520, 137
+  size: 67, 224
+  orig: 70, 226
+  offset: 1, 1
+  index: -1
+合成 1_11
+  rotate: true
+  xy: 746, 137
+  size: 67, 215
+  orig: 69, 217
+  offset: 1, 1
+  index: -1
+合成 1_12
+  rotate: true
+  xy: 1648, 139
+  size: 65, 206
+  orig: 68, 208
+  offset: 2, 1
+  index: -1
+合成 1_13
+  rotate: true
+  xy: 1648, 72
+  size: 65, 197
+  orig: 67, 199
+  offset: 1, 1
+  index: -1
+合成 1_14
+  rotate: true
+  xy: 311, 70
+  size: 64, 188
+  orig: 66, 190
+  offset: 1, 1
+  index: -1
+合成 1_15
+  rotate: true
+  xy: 1047, 70
+  size: 65, 180
+  orig: 67, 183
+  offset: 1, 1
+  index: -1
+合成 1_16
+  rotate: true
+  xy: 1229, 70
+  size: 65, 172
+  orig: 68, 175
+  offset: 1, 2
+  index: -1
+合成 1_17
+  rotate: true
+  xy: 1648, 5
+  size: 65, 165
+  orig: 68, 167
+  offset: 2, 1
+  index: -1
+合成 1_18
+  rotate: true
+  xy: 2, 2
+  size: 65, 158
+  orig: 67, 161
+  offset: 1, 1
+  index: -1
+合成 1_19
+  rotate: true
+  xy: 520, 69
+  size: 66, 151
+  orig: 68, 154
+  offset: 1, 2
+  index: -1
+合成 1_20
+  rotate: true
+  xy: 164, 68
+  size: 66, 145
+  orig: 69, 147
+  offset: 1, 1
+  index: -1
+合成 1_21
+  rotate: true
+  xy: 1275, 137
+  size: 67, 138
+  orig: 69, 141
+  offset: 1, 2
+  index: -1
+合成 1_22
+  rotate: true
+  xy: 399, 136
+  size: 68, 119
+  orig: 70, 121
+  offset: 1, 1
+  index: -1
+合成 1_23
+  rotate: true
+  xy: 1532, 137
+  size: 67, 114
+  orig: 70, 117
+  offset: 2, 2
+  index: -1
+合成 1_24
+  rotate: true
+  xy: 1415, 137
+  size: 67, 115
+  orig: 69, 117
+  offset: 1, 1
+  index: -1
+合成 1_25
+  rotate: true
+  xy: 311, 2
+  size: 66, 118
+  orig: 68, 120
+  offset: 1, 1
+  index: -1
+合成 1_26
+  rotate: true
+  xy: 1027, 5
+  size: 63, 116
+  orig: 65, 118
+  offset: 1, 1
+  index: -1
+合成 1_27
+  rotate: true
+  xy: 905, 5
+  size: 63, 120
+  orig: 66, 122
+  offset: 1, 1
+  index: -1
+合成 1_28
+  rotate: true
+  xy: 673, 4
+  size: 64, 124
+  orig: 66, 126
+  offset: 1, 1
+  index: -1
+合成 1_29
+  rotate: false
+  xy: 1582, 8
+  size: 64, 127
+  orig: 66, 129
+  offset: 1, 1
+  index: -1
+合成 1_30
+  rotate: true
+  xy: 162, 2
+  size: 64, 130
+  orig: 66, 132
+  offset: 1, 1
+  index: -1
+合成 1_31
+  rotate: true
+  xy: 431, 3
+  size: 64, 105
+  orig: 66, 134
+  offset: 1, 28
+  index: -1
+合成 1_32
+  rotate: true
+  xy: 538, 3
+  size: 64, 104
+  orig: 66, 106
+  offset: 1, 1
+  index: -1
+合成 1_33
+  rotate: true
+  xy: 799, 4
+  size: 64, 104
+  orig: 66, 106
+  offset: 1, 1
+  index: -1
+合成 1_34
+  rotate: true
+  xy: 1145, 6
+  size: 62, 104
+  orig: 65, 106
+  offset: 2, 1
+  index: -1
+合成 1_35
+  rotate: true
+  xy: 1251, 11
+  size: 57, 102
+  orig: 59, 104
+  offset: 1, 1
+  index: -1
+合成 1_36
+  rotate: false
+  xy: 1847, 28
+  size: 33, 101
+  orig: 35, 103
+  offset: 1, 1
+  index: -1
+合成 1_37
+  rotate: false
+  xy: 1856, 131
+  size: 10, 73
+  orig: 13, 75
+  offset: 2, 1
+  index: -1
+图层 1
+  rotate: true
+  xy: 2, 69
+  size: 64, 159
+  orig: 66, 161
+  offset: 1, 1
+  index: -1

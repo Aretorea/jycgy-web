@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1041,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kl_icon
+  rotate: false
+  xy: 754, 36
+  size: 175, 195
+  orig: 175, 195
+  offset: 0, 0
+  index: -1
+kl_icon_1
+  rotate: false
+  xy: 2, 2
+  size: 750, 229
+  orig: 750, 229
+  offset: 0, 0
+  index: -1
+kl_icon_2
+  rotate: false
+  xy: 931, 66
+  size: 108, 165
+  orig: 108, 165
+  offset: 0, 0
+  index: -1

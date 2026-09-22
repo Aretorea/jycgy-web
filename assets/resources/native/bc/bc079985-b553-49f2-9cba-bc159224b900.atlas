@@ -1,0 +1,258 @@
+
+彩带.png
+size: 1976,1589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+合成 1_02
+  rotate: true
+  xy: 36, 70
+  size: 198, 459
+  orig: 198, 459
+  offset: 0, 0
+  index: -1
+合成 1_03
+  rotate: false
+  xy: 1065, 169
+  size: 196, 446
+  orig: 196, 446
+  offset: 0, 0
+  index: -1
+合成 1_04
+  rotate: false
+  xy: 1146, 694
+  size: 192, 436
+  orig: 192, 436
+  offset: 0, 0
+  index: -1
+合成 1_05
+  rotate: false
+  xy: 578, 514
+  size: 187, 533
+  orig: 188, 533
+  offset: 1, 0
+  index: -1
+合成 1_06
+  rotate: false
+  xy: 579, 1060
+  size: 187, 527
+  orig: 188, 527
+  offset: 0, 0
+  index: -1
+合成 1_07
+  rotate: false
+  xy: 691, 2
+  size: 183, 510
+  orig: 183, 510
+  offset: 0, 0
+  index: -1
+合成 1_08
+  rotate: false
+  xy: 876, 46
+  size: 187, 491
+  orig: 187, 491
+  offset: 0, 0
+  index: -1
+合成 1_09
+  rotate: false
+  xy: 2, 914
+  size: 196, 673
+  orig: 198, 674
+  offset: 2, 1
+  index: -1
+合成 1_10
+  rotate: false
+  xy: 2, 270
+  size: 196, 642
+  orig: 196, 642
+  offset: 0, 0
+  index: -1
+合成 1_11
+  rotate: false
+  xy: 200, 971
+  size: 192, 616
+  orig: 192, 616
+  offset: 0, 0
+  index: -1
+合成 1_12
+  rotate: false
+  xy: 200, 378
+  size: 187, 591
+  orig: 188, 591
+  offset: 1, 0
+  index: -1
+合成 1_13
+  rotate: false
+  xy: 389, 404
+  size: 187, 565
+  orig: 187, 565
+  offset: 0, 0
+  index: -1
+合成 1_14
+  rotate: false
+  xy: 394, 1049
+  size: 183, 538
+  orig: 183, 538
+  offset: 0, 0
+  index: -1
+合成 1_15
+  rotate: false
+  xy: 767, 539
+  size: 187, 519
+  orig: 187, 519
+  offset: 0, 0
+  index: -1
+合成 1_16
+  rotate: false
+  xy: 768, 1093
+  size: 188, 494
+  orig: 188, 496
+  offset: 0, 2
+  index: -1
+合成 1_17
+  rotate: false
+  xy: 956, 617
+  size: 188, 474
+  orig: 188, 474
+  offset: 0, 0
+  index: -1
+合成 1_18
+  rotate: false
+  xy: 958, 1132
+  size: 187, 455
+  orig: 187, 455
+  offset: 0, 0
+  index: -1
+合成 1_19
+  rotate: false
+  xy: 1147, 1151
+  size: 188, 436
+  orig: 188, 436
+  offset: 0, 0
+  index: -1
+合成 1_20
+  rotate: false
+  xy: 1337, 1172
+  size: 192, 415
+  orig: 192, 415
+  offset: 0, 0
+  index: -1
+合成 1_21
+  rotate: false
+  xy: 497, 2
+  size: 192, 400
+  orig: 192, 400
+  offset: 0, 0
+  index: -1
+合成 1_22
+  rotate: true
+  xy: 1530, 652
+  size: 196, 342
+  orig: 196, 342
+  offset: 0, 0
+  index: -1
+合成 1_23
+  rotate: false
+  xy: 1446, 195
+  size: 196, 330
+  orig: 196, 330
+  offset: 0, 0
+  index: -1
+合成 1_24
+  rotate: true
+  xy: 1644, 458
+  size: 192, 330
+  orig: 192, 330
+  offset: 0, 0
+  index: -1
+合成 1_25
+  rotate: false
+  xy: 1340, 832
+  size: 188, 338
+  orig: 188, 338
+  offset: 0, 0
+  index: -1
+合成 1_26
+  rotate: false
+  xy: 1263, 193
+  size: 181, 332
+  orig: 181, 332
+  offset: 0, 0
+  index: -1
+合成 1_27
+  rotate: true
+  xy: 1530, 850
+  size: 182, 344
+  orig: 183, 344
+  offset: 0, 0
+  index: -1
+合成 1_28
+  rotate: true
+  xy: 1531, 1034
+  size: 183, 355
+  orig: 183, 355
+  offset: 0, 0
+  index: -1
+合成 1_29
+  rotate: true
+  xy: 1531, 1219
+  size: 183, 364
+  orig: 183, 364
+  offset: 0, 0
+  index: -1
+合成 1_30
+  rotate: true
+  xy: 1531, 1404
+  size: 183, 372
+  orig: 183, 372
+  offset: 0, 0
+  index: -1
+合成 1_31
+  rotate: false
+  xy: 1340, 527
+  size: 183, 303
+  orig: 183, 378
+  offset: 0, 75
+  index: -1
+合成 1_32
+  rotate: true
+  xy: 1359, 8
+  size: 183, 298
+  orig: 183, 298
+  offset: 0, 0
+  index: -1
+合成 1_33
+  rotate: true
+  xy: 1659, 273
+  size: 183, 298
+  orig: 183, 298
+  offset: 0, 0
+  index: -1
+合成 1_34
+  rotate: true
+  xy: 1659, 92
+  size: 179, 298
+  orig: 181, 298
+  offset: 2, 0
+  index: -1
+合成 1_35
+  rotate: true
+  xy: 1065, 3
+  size: 164, 292
+  orig: 164, 292
+  offset: 0, 0
+  index: -1
+合成 1_36
+  rotate: true
+  xy: 200, 280
+  size: 96, 291
+  orig: 96, 291
+  offset: 0, 0
+  index: -1
+合成 1_37
+  rotate: false
+  xy: 2, 58
+  size: 32, 210
+  orig: 32, 210
+  offset: 0, 0
+  index: -1
